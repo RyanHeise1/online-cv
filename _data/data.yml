@@ -13,10 +13,9 @@ sidebar:
 
     # Sidebar links
     email: rheise@uoregon.edu
-    linkedin: alandoe
+    linkedin: ryanheise
     github: RyanHeise1
-    twitter: '@heiseryan'
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: resume.pdf
 
     languages:
       - idiom: English
@@ -38,74 +37,49 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Hi, my name is Ryan Heise and I am a Computer Science major at the 
-      University of Oregon with a minor in Business Administration. I am 
-      skilled in HTML, CSS, Python, C, and C++. I am working to further my  
-      knowledge in computer science and other computer-related areas in  
-      preparation for a career in software development, cybersecurity, or 
-      networking.
+      Hi, my name is Ryan Heise and I am a Computer Science major at the University of Oregon with a minor in Business Administration. I am skilled in HTML, CSS, Python, C, and C++. I am working to further my knowledge in computer science and other computer-related areas in preparation for a career in software development, cybersecurity, or networking.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Computer Science
+      university: University of Oregon
+      time: 2019 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        In the Computer Scinece major, I studied a wide range of topics that included:
+          - Operating Systems
+          - Data Structures 
+        I am putting a focous on security, where I plan to take classes on:
+          - Network Security
+          - Cryptography
+    - degree: Minor in Business Administration
+      university: University of Oregon
+      time: 2019 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In the Business Administration minor I learned: 
+          - Accounting
+          - Management
+          - Marketing
+          - Finance
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Student Security Analyst
+      time: July 2021 - Present
+      company: University of Oregon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Respond to security incidents and perform manual and tool-assisted vulnerability assessment of University of Oregon systems
+        - Analyze network traffic for malicious activity by cross-referencing IDS alerts with traffic flow data, packet analysis, and other data points
+        - Develop and maintain custom software and tools to automatically create security tickets
+        - Create documentation for maintainable procedures 
+        - Advise customers on strategies to improve security hygiene
+
+    - role: Student Classroom Technician
+      time: September 2020 - July 2021
+      company: University of Oregon
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Entering in data on equipment and creating product pages for the devices to install
+        - Developed knowledge of IP networks while learning about Audio and Visual equipment
+        - Leading a team of 4 students to manage and maintain classrooms
+        - Responding to classrooms that have technology issues
+        - Giving presentations to professors on the proper use of classroom equipment
+
 projects:
     title: Projects
     intro: >
