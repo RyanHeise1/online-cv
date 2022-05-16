@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: rheise@uoregon.edu
-    linkedin: ryan-heise
+    linkedin: ryan-heise-40b5801a3
     github: RyanHeise1
     pdf: resume.pdf
 
@@ -83,7 +83,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here are some of my projects that I have done over the course 
+      Here are some of my projects that I have done!
     assignments:
       - title: Encryption
         link: "https://github.com/RyanHeise1/CyberSecProjects/tree/master/Encryption"
