@@ -28,10 +28,10 @@ sidebar:
       - item: Outdoors
         link:
 
-      - item: Track and Field
+      - item: Sports
         link:
 
-      - item: Basketball
+      - item: CTF Hacking Events
         link:
 
 career-profile:
@@ -47,9 +47,10 @@ education:
         In the Computer Scinece major, I studied a wide range of topics that included:
           - Operating Systems
           - Data Structures 
-        I am putting a focous on security, where I plan to take classes on:
           - Network Security
+        I am putting a focous on security, where I plan to take classes on:
           - Cryptography
+          - AI
     - degree: Minor in Business Administration
       university: University of Oregon
       time: 2019 - 2023
@@ -87,7 +88,7 @@ projects:
     assignments:
       - title: Encryption
         link: "https://github.com/RyanHeise1/CyberSecProjects/tree/master/Encryption"
-        tagline: "This program encrypts and decrypts using several different ciphers"
+        tagline: "This program encrypts and decrypts text using several different ciphers"
 
 skills:
     title: Skills &amp; Proficiency
@@ -110,8 +111,3 @@ skills:
 
       - name: Azure
         level: 80%
-
-      
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
